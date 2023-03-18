@@ -6,6 +6,8 @@ body {
 }
 span {
     color: black;
+    font-family: Verdana;
+    font-size: 15px;
 }
 .header {
     display: grid;
