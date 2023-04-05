@@ -1,1 +1,4 @@
-console.log('Guess Who')
+function toggleEliminated(card) {
+    card.classList.toggle('eliminated')
+  }
+  
